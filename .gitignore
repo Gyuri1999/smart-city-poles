@@ -12,3 +12,6 @@ build/
 .DS_Store
 *.bak
 __pycache__/
+
+# Analysis output (raw data may be large) / Αποτελέσματα ανάλυσης
+analysis/output/
